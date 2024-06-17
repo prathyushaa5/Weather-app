@@ -1,0 +1,22 @@
+.card-img-top {
+    opacity: 1; /* Adjust opacity value as needed (0.0 to 1.0) */
+  }
+  #weather-container{
+    margin:auto;
+    margin-top:10%;
+
+  }
+  .card{
+    padding:20px;
+    
+    
+  }
+  #countrySelect{
+    margin-left:400px;
+    text-align:center;
+    border:none;
+  }
+  #nav{
+    background-color: black;
+    color:white;
+  }
